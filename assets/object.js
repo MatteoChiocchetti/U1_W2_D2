@@ -22,4 +22,4 @@ console.log(student.location.coordinates.lon);
 console.log(student["e-mail"]);
 
 const propertyToLookUpFor = "hasWebcam";
-console.log(stuent[propertyToLookUpFor]);
+console.log(student[propertyToLookUpFor]);
